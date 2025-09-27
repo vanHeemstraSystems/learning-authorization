@@ -15,6 +15,7 @@ CISSP Domain: Domain 3 - Security Architecture and Engineering, Domain 5 - IAM
 	•	Mandatory Access Control (MAC)
 	•	Role-Based Access Control (RBAC)
 	•	Attribute-Based Access Control (ABAC)
+	•	Policy-Based Access Control (PBAC)
 	•	Rule-Based Access Control
 	•	Access control matrices and capability tables
 
