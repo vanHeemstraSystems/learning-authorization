@@ -8,6 +8,7 @@ CISSP Domain: Domain 3 - Security Architecture and Engineering, Domain 5 - IAM
 	•	Understand different access control models
 	•	Learn Role-Based Access Control (RBAC) design
 	•	Explore Attribute-Based Access Control (ABAC)
+	•	Explore Policy-Based Access Control (PBAC)	
 
 ### Study Topics:
 	•	Discretionary Access Control (DAC)
